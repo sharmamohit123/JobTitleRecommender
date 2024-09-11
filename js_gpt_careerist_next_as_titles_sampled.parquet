@@ -1,6 +1,7 @@
-accountId,resume_data_combined,prompt,gpt_4o_resp
+accountId,resume_data_combined,prompt,gpt_4o_resp,matchTimestamp,next_as_job_titles,gpt_inferrred_job_titles,clientTk,careerist_job_titles
 17681794,"
 ***JS Resume***
+
 ****Resume Header****
 Administrative support professional with more than 30 years of professional and volunteer experience looking to utilize my decades of experience in providing
 Microsoft support, coordinating events and schedules, and leading team environments.
@@ -48,6 +49,7 @@ Driver's License
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['retail sales associate', 'cashier', 'mathematics teacher', 'tutor']
 
@@ -105,9 +107,10 @@ None
         ""justification"": ""The job seeker has extensive experience in administrative roles and has shown interest in similar positions through their recent activity.""
     }
 ]
-```"
+```",1722985696,['retail sales associate'],"['Administrative Assistant', 'Retail Sales Associate', 'Cashier', 'Tutor', 'Guest Service Agent', 'Community Assistant', 'Veterinary Receptionist', 'Food Service Worker', 'Event Coordinator', 'Administrative Support Specialist']",1i4kv6ilbge5b801,[]
 50346522,"
 ***JS Resume***
+
 ****Resume Header****
 Sr Customer Account Professional, Account Specialist - Arbella Insurance
 To obtain a challenging position within a fast paced business environment where my strong business acumen will be utilized each day to further the success, growth and profitability of a company that will encourage personal growth and development.
@@ -150,6 +153,7 @@ driver's license
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['front desk agent', 'sales associate', 'gardener', 'administrative assistant', 'member services representative', 'guest service agent', 'tanning consultant', 'real estate agent', 'housekeeper', 'sales']
 
@@ -207,9 +211,10 @@ None
         ""justification"": ""Given their insurance background and interest in inspection roles, this position aligns well with their experience and recent activity.""
     }
 ]
-```"
+```",1722983475,"['banker', 'event staff', 'caregiver', 'assistant', 'retail sales associate', 'studio assistant', 'technician', 'sales consultant']","['Customer Service Representative', 'Account Manager', 'Insurance Agent', 'Member Services Representative', 'Administrative Assistant', 'Sales Associate', 'Guest Service Agent', 'Real Estate Agent', 'Front Desk Agent', 'Insurance Loss Control Inspector']",1i4kt2p5ci3on801,"['Account Executive- Boston Territory', 'Homecare Account Executive', 'Accounts Receivable-Customer Service Adminstrator']"
 62469298,"
 ***JS Resume***
+
 ****Resume Header****
 Shipping Specialist with 14 years of Logistics Experience.
 Dedicated and results-driven professional with extensive experience in logistics, team leadership, and operational efficiency. Proven track record of guiding and leading teams through positive impact and example. Seeking new challenges to gain additional skills and experience.
@@ -366,6 +371,7 @@ Driver's License
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['shipping and receiving clerk', 'receiving lead', 'customer service representative', 'packer', 'order processor', 'warehouse supervisor', 'tool crib attendant']
 
@@ -423,9 +429,10 @@ None
         ""justification"": ""The job seeker has extensive experience in supervising operations and has shown interest in similar roles, making this a logical next step.""
     }
 ]
-```"
+```",1723004407,[],"['Warehouse Supervisor', 'Logistics Specialist', 'Shipping and Receiving Clerk', 'Inventory Control Specialist', 'Receiving Lead', 'Warehouse Manager', 'Order Processor', 'Customer Service Representative', 'Logistics Coordinator', 'Operations Supervisor']",1i4lh1ijb2fd3000,[]
 106897570,"
 ***JS Resume***
+
 ****Resume Header****
 D.O.T medical card
 
@@ -468,6 +475,7 @@ Twic card, Non-CDL Class C, Issa personal trainer certification, CPR Certificati
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['truck driver', 'driver', 'delivery driver', 'route driver', 'personal trainer', 'driver (independent contractor)', 'van driver', 'parts driver', 'transport driver', 'customer service representative']
 
@@ -525,9 +533,10 @@ None
         ""justification"": ""The job seeker has experience and certifications in personal training and has applied to similar roles, indicating continued interest in this field.""
     }
 ]
-```"
+```",1722955347,"['driver', 'truck driver', 'transporter', 'otr', 'delivery driver', 'driver (independent contractor)', 'courier driver', 'local driver']","['Delivery Driver', 'Route Driver', 'Truck Driver', 'Driver (Independent Contractor)', 'Van Driver', 'Parts Driver', 'Warehouse/Driver', 'Local Driver', 'Customer Service Representative', 'Personal Trainer']",1i4k28cphm6rr800,"['CDL-A OTR/REGIONAL TRUCK DRIVER - HOUSTON, TX']"
 127616383,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -588,6 +597,7 @@ None
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['direct support professional', 'production assembler', 'packager', 'laborer']
 
@@ -645,9 +655,10 @@ None
         ""justification"": ""The job seeker has previous experience as a dietary aide and this role aligns with their skill set.""
     }
 ]
-```"
+```",1722955395,[],"['Production Assembler', 'Packaging Specialist', 'Direct Support Professional', 'Shipping and Receiving Clerk', 'Quality Control Inspector', 'Warehouse Associate', 'Caregiver', 'Production Worker', 'Assembler', 'Dietary Aide']",1i4k29rqa2i75001,[]
 135951376,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -693,6 +704,7 @@ OSHA 10, Secret Clearance, Airframe & Powerplant License, Driver's License
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['sales', 'sales representative', 'sales manager', 'facilitator', 'low voltage technician', 'sales consultant', 'automation consultant']
 
@@ -750,9 +762,10 @@ None
         ""justification"": ""The job seeker has extensive experience in technical support and customer service, making this a logical next step in their career.""
     }
 ]
-```"
+```",1722992562,"['technician', 'communication technician', 'technical sales manager']","['Sales Representative', 'Network Technician', 'Sales Manager', 'Systems Administrator', 'Low Voltage Technician', 'Automation Consultant', 'Communication Specialist', 'Cyber Security Sales Specialist', 'Medical Device Sales Representative', 'Technical Support Specialist']",1i4l5o2vth7j7800,['Technology Sales Representative']
 154738918,"
 ***JS Resume***
+
 ****Resume Header****
 Special Education Assistant
 2011-Present: Chicago Public Schools
@@ -775,6 +788,7 @@ None
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['car sales executive', 'sales representative', 'sales associate', 'insurance agent', 'outside sales representative', 'sales trainee', 'courier driver', 'car salesperson', 'retail sales associate', 'pest control technician']
 
@@ -832,9 +846,10 @@ None
     ""justification"": ""The job seeker has applied to this role, indicating a potential interest in exploring opportunities outside of sales and driving.""
   }
 ]
-```"
+```",1722975788,[],"['Sales Representative', 'Car Sales Executive', 'Insurance Agent', 'Retail Sales Associate', 'Outside Sales Representative', 'Sales Trainee', 'Delivery Driver', 'Truck Driver', 'Courier Driver', 'Pest Control Technician']",1i4klo6ic2inq000,"['Part-Time Special Education Instructor', 'BCaBA - Behavior Therapist for Special Education School - $2,000 sign-on bonus', 'Schools - Special Education Teacher - Telehealth', 'School Based Special Education Teacher Job Opening near Skokie, IL', 'Special Education Teacher']"
 182854219,"
 ***JS Resume***
+
 ****Resume Header****
 Neonatal Intensive Care Unit Administrative Secretary
 Reliable, trustworthy and hardworking individual who is looking to broaden my horizon and extend experience in the clerical field. Self - motivated with strong organizational and communication skills. An active communicator with excellent inter-personal skills and active team player. Passionate about working at Forrest General Hospital as you can see from the extensive 15 years of experience.Competencies
@@ -918,6 +933,7 @@ None
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['guest service agent']
 
@@ -975,9 +991,10 @@ None
         ""justification"": ""The job seeker has significant experience in administrative roles within healthcare, making this a logical next step in their career.""
     }
 ]
-```"
+```",1722997307,[],"['Administrative Assistant', 'Customer Service Representative', 'Front Desk Receptionist', 'Scheduling Coordinator', 'Human Resources Specialist', 'Guest Service Agent', 'Program Assistant', 'Childcare Provider', 'Medical Receptionist', 'Healthcare Administrative Assistant']",1i4la8t4ritkg801,[]
 196626049,"
 ***JS Resume***
+
 ****Resume Header****
 Sr. Executive Assistant/Litigation Paralegal
 I am an efficient professional who has been consistently praised as detail and goal-oriented by my colleagues. Over the course of my 16 years of experience as a Sr. Executive Assistant/Project Manager/Dir. of Human Resources at ADC Inc supporting the President and CEO as well as multiple C-Level executives. I’ve developed a strong background in all aspects of employee services and office management, accounting, employee training, client meetings, presentations, office safety and administrative duties.
@@ -1082,6 +1099,7 @@ Paralegal Certificate, Certified Notary Public, Senior Professional in Human Res
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['litigation paralegal', 'paralegal', 'human resources manager', 'legal assistant', 'customer success manager', 'ediscovery analyst', 'research specialist', 'executive assistant to ceo', 'data specialist', 'executive assistant']
 
@@ -1139,9 +1157,10 @@ None
         ""justification"": ""The job seeker has clicked on senior HR roles and has extensive HR management experience, making this a potential career advancement.""
     }
 ]
-```"
+```",1722959737,"['executive assistant', 'human resources generalist', 'office manager', 'litigation paralegal', 'paralegal', 'senior paralegal', 'personal injury paralegal', 'legal secretary']","['Litigation Paralegal', 'Human Resources Manager', 'Executive Assistant to CEO', 'Customer Success Manager', 'eDiscovery Analyst', 'Research Specialist', 'Legal Assistant', 'Paralegal', 'Family Law Paralegal', 'Vice President of Human Resources']",1i4k6ebpditkg800,"['Paralegal', 'Litigation Paralegal', 'Senior Liability Adjuster - Hybrid']"
 203941661,"
 ***JS Resume***
+
 ****Resume Header****
 Dynamic and innovative marketing professional with a passion for design and a proven track record in sales. Seeking a design or creative marketing role where I can leverage my skills in visual storytelling, brand strategy, and client engagement to drive growth and elevate brand presence.
 Dedicated to delivering impactful service and foster strong client relationships via a blend of creativity and strategic thinking.
@@ -1182,6 +1201,7 @@ Esthetician License
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['social media manager', 'marketing assistant', 'marketing coordinator', 'interior designer', 'marketer', 'kitchen designer', 'esthetician', 'content writer', 'mortgage loan originator', 'content manager']
 
@@ -1239,9 +1259,10 @@ None
         ""justification"": ""The job seeker has clicked on this role and has experience managing creative projects and teams, making it a potential career advancement.""
     }
 ]
-```"
+```",1722990353,[],"['Social Media Manager', 'Marketing Coordinator', 'Content Manager', 'Digital Marketer', 'Creative Director', 'Content Creator', 'Marketing Specialist', 'Social Media Specialist', 'Content Producer', 'Studio Manager']",1i4l3kmj1h7j7801,"['Marketing Specialist', 'Marketing Brand Manager', 'Director, Direct Digital Marketing and CRM', 'Marketing Manager', 'Marketing Associate', 'Spectrum Outreach Agent (Canvassing Experience Preferred)', 'Senior Marketing Coordinator']"
 227311830,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -1288,6 +1309,7 @@ None
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 None
 
@@ -1345,9 +1367,10 @@ None
     ""justification"": ""With their background as a Financial Aid Advisor, the jobseeker has relevant experience to transition into a Financial Services Representative role.""
   }
 ]
-```"
+```",1722982333,[],"['Customer Service Representative', 'Sales Associate', 'Administrative Coordinator', 'Warehouse Supervisor', 'Logistics Coordinator', 'Account Manager', 'Operations Assistant', 'Inventory Specialist', 'Inside Sales Representative', 'Financial Services Representative']",1i4krvug12inq001,"['Shipping and Receiving Clerk - 1st Shift', 'Material Handler - 2nd shift (3:00pm to 1:30am, Monday-Thursday)']"
 229891317,"
 ***JS Resume***
+
 ****Resume Header****
 A detail oriented and focused Medical Technologist of 14 years demonstrating a high level of initiative and proficiency in clinical and laboratory operations pertaining to Blood Bank.  I am open to learn new techniques, utilize my educational abilities, change lives, and to improve the health of patients. I have learned the art of multitasking and problem solving, and I have learned to follow as effectively as I lead. I am looking to be a member of a team that works to ensure its customers always receive the best experience possible.
 
@@ -1408,6 +1431,7 @@ None
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 None
 
@@ -1465,9 +1489,10 @@ None
     ""justification"": ""Their past experience as a Data Analyst combined with their medical background could make them a strong candidate for a role analyzing healthcare data to improve patient outcomes.""
   }
 ]
-```"
+```",1722974444,[],"['Senior Medical Technologist', 'Lead Blood Bank Technologist', 'Clinical Laboratory Supervisor', 'Blood Bank Manager', 'Quality Assurance Coordinator', 'Clinical Research Coordinator', 'Laboratory Operations Manager', 'Medical Laboratory Scientist', 'Transfusion Services Supervisor', 'Healthcare Data Analyst']",1i4kkf5qdj4os804,[]
 232776839,"
 ***JS Resume***
+
 ****Resume Header****
 About myself
 
@@ -1505,6 +1530,7 @@ Driver's License
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['pipe welder', 'builder', 'structural welder']
 
@@ -1562,9 +1588,10 @@ None
         ""justification"": ""The job seeker has clicked on this occupation, and their experience in construction and blueprint reading could make this a potential career shift.""
     }
 ]
-```"
+```",1722970415,[],"['Pipe Welder', 'Structural Welder', 'Fabricator/Welder', 'Trailer Mechanic', 'Builder', 'Engineering Technician', 'Welder Helper', 'Rig Welder', 'Field Helper', 'Construction Materials Testing Technician']",1i4kgk7k4jm5j800,[]
 233126859,"
 ***JS Resume***
+
 ****Resume Header****
 Paralegal with outstanding background in Immigration Law, legal research and analysis. Proven success managing complex legal issues, conducting comprehensive research and overseeing immigration cases. Specializing in Immigration Law. Providing senior-level support, managing multiple case files, and handling client relations. Expertise in preparing immigrant and nonimmigrant petitions, including EB3, EB1, L-1, H-1b, U Visa, Family Based petitions, Asylum, Change of Status, K-1, RFE, PERM Audits, NOID, etc. Recognized for excellent organizational skills and ability to prioritize work load.
 
@@ -1588,6 +1615,7 @@ Hootsuite
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 None
 
@@ -1645,9 +1673,10 @@ None
         ""justification"": ""Combining their paralegal and management experience, the job seeker could advance to a managerial role overseeing other paralegals.""
     }
 ]
-```"
+```",1722963023,[],"['Immigration Specialist', 'Global Mobility Specialist', 'Senior Immigration Paralegal', 'Immigration Case Manager', 'Legal Operations Manager', 'Recruiter', 'Immigration Consultant', 'Benefits & Compensation Specialist', 'Legal Research Analyst', 'Paralegal Manager']",1i4k9ila3ma4g800,"['Sr. Litigation Paralegal - 5+years experience', 'Paralegal', 'Paralegal - Trademark']"
 234716640,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -1692,6 +1721,7 @@ None
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['member services representative']
 
@@ -1749,9 +1779,10 @@ None
     ""justification"": ""The job seeker's skills in videography, video editing, and social media management align well with a role focused on creating digital content.""
   }
 ]
-```"
+```",1722962781,"['shift manager', 'associate manager', 'cook', 'reservation center associate', 'food service worker', 'loss prevention manager', 'school program staff', 'food and beverage manager', 'patient care technician']","['Customer Service Representative', 'Member Services Representative', 'Bank Teller', 'Customer Support Specialist', 'Video Editor', 'Social Media Manager', 'Event Coordinator', 'Shift Supervisor', 'Customer Support & Client Services Manager', 'Content Creator']",1i4k9b85kl23l800,"['Grill Cook Day and Evening Shift Available | Corning CC Dining Services', 'Food Service Worker', 'Cook', 'Line Cooks (1452)', 'Shift Manager Food Service']"
 240604300,"
 ***JS Resume***
+
 ****Resume Header****
 Customer service, insurance specialist
 13 years of customer service132 Douglas Hts Union South Carolina cwhitfield245@gmail.com 864-251-2819
@@ -1807,6 +1838,7 @@ Driver's License
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['customer service representative', 'office assistant', 'loan processor', 'credit analyst', 'customer specialist', 'customer support representative']
 
@@ -1864,9 +1896,10 @@ None
     ""justification"": ""The job seeker has clicked on this job title and has relevant experience in customer service and debt collection.""
   }
 ]
-```"
+```",1723001355,[],"['Customer Service Representative', 'Loan Processor', 'Claims Processor', 'Credit Analyst', 'Customer Support Representative', 'Insurance Verification Specialist', 'Call Center Representative', 'Front Desk Agent', 'Administrative Assistant', 'Collection Agent']",1i4le4e4ijii3800,[]
 241107823,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -1908,6 +1941,7 @@ None
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['production supervisor', 'director of process improvement', 'quality assurance manager', 'driver', 'general manager', 'plant manager', 'commercial driver']
 
@@ -1965,9 +1999,10 @@ None
         ""justification"": ""The job seeker has experience managing facilities and ensuring compliance, making this a relevant and achievable role.""
     }
 ]
-```"
+```",1722988619,"['quality control manager', 'learning and development facilitator', 'project coordinator', 'material coordinator', 'operations coordinator', 'director of operations', 'traffic controller', 'management trainee', 'production coordinator', 'program manager']","['Director of Process Improvement', 'Plant Manager', 'Quality Assurance Manager', 'General Manager', 'Production Manager', 'Director of Manufacturing', 'Manufacturing Manager', 'Operations Manager', 'Supply Chain Manager', 'Facilities Manager']",1i4l1vpfug04v801,"['Hospice Sales Consultant - Full Time - San Diego', 'Nutrition Sales Consultant', 'SOX Compliance Consultant', 'Automotive Sales Consultant', 'Home Improvement Outside Sales Consultant']"
 247219716,"
 ***JS Resume***
+
 ****Resume Header****
 A seasoned team player offering years of experience in assisting individuals with intellectual/developmental disabilities. Motivated and dedicated to work in improving the welfare of residents emotionally, psychologically and physically.
 
@@ -2036,6 +2071,7 @@ CPR Certification, Certified Behavioral Health Technician
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['direct support professional', 'mental health technician', 'site supervisor', 'direct care worker', 'resident assistant', 'support worker', 'support specialist', 'recovery advocate', 'behavior coach', 'residential counselor']
 
@@ -2093,9 +2129,10 @@ None
         ""justification"": ""The job seeker has clicked on care facility administrator roles and has supervisory and administrative experience in residential care settings.""
     }
 ]
-```"
+```",1722995157,"['mental health technician', 'resident assistant', 'direct support professional']","['Direct Support Professional', 'Mental Health Technician', 'Site Supervisor', 'Residential Counselor', 'Case Manager', 'Program Manager', 'Support Specialist', 'Recovery Advocate', 'Behavior Coach', 'Care Facility Administrator']",1i4l879fimskr800,[]
 250142385,"
 ***JS Resume***
+
 ****Resume Header****
 Medical Assistant
 Medical Assistant looking to join a team to provide compassionate patient care with medical procedures. Mid level Medical Assistant who is hard working, motivated, and ready to take on any tasks.
@@ -2129,6 +2166,7 @@ Certified Clinical Medical Assistant (CCMA), Certified Medical Assistant
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 None
 
@@ -2186,9 +2224,10 @@ None
     ""justification"": ""The job seeker's experience in handling phone calls and resolving issues could translate well into a customer service role within the healthcare industry.""
   }
 ]
-```"
+```",1722994381,[],"['Senior Medical Assistant', 'Lead Medical Assistant', 'Remote Medical Assistant', 'Clinical Coordinator', 'Medical Office Manager', 'Patient Care Coordinator', 'Medical Administrative Assistant', 'Clinical Medical Assistant', 'Medical Assistant Trainer', 'Healthcare Customer Service Representative']",1i4l7fkdp2i75001,"['Mohs Technician/Mohs Surgical Assistant', 'Certified Medical Assistant', 'Surgery Scheduler / Triage - South Austin']"
 250762611,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -2335,6 +2374,7 @@ Personal Lines License
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['customer service representative', 'administrative assistant', 'claims investigator', 'account manager', 'executive administrative assistant', 'account coordinator', 'recruiter']
 
@@ -2392,9 +2432,10 @@ None
         ""justification"": ""The job seeker has applied for recruiter roles and has experience in client services and administrative tasks, which are relevant to recruiting.""
     }
 ]
-```"
+```",1722983078,"['underwriter', 'sales consultant', 'insurance consultant', 'documentation manager']","['Claims Adjuster', 'Customer Service Representative', 'Account Manager', 'Claims Examiner', 'Administrative Assistant', 'Insurance Agent', 'Account Coordinator', 'Claims Investigator', 'Executive Administrative Assistant', 'Recruiter']",1i4ksmlm42i75001,"['Liability Claims Adjuster', 'Licensed Public Adjuster']"
 250832672,"
 ***JS Resume***
+
 ****Resume Header****
 Direct support professional
 Skills
@@ -2437,6 +2478,7 @@ Medication Aide, CNA, State Tested Nursing Assistant
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['nursing assistant', 'medication technician', 'personal care assistant']
 
@@ -2494,9 +2536,10 @@ None
     ""justification"": ""The job seeker has clicked on customer representative roles and has skills in communication and customer service, making this a viable option.""
   }
 ]
-```"
+```",1722987243,[],"['Certified Nursing Assistant (CNA)', 'Medication Technician', 'Personal Care Assistant', 'Home Health Aide', 'Caregiver', 'Direct Support Professional', 'Resident Care Coordinator', 'Phlebotomist', ""Teacher's Aide"", 'Customer Service Representative']",1i4l0lp11ghr0802,"['CNA - Certified Nursing Assistant - Evening Shift', 'Resident Care Assistant']"
 251417669,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -2528,6 +2571,7 @@ Driver's License
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 None
 
@@ -2585,9 +2629,10 @@ None
     ""justification"": ""The job seeker has sales experience, and a role as a sales representative could offer a new direction while utilizing their existing skills.""
   }
 ]
-```"
+```",1723000559,[],"['Senior Quality Control Inspector', 'Quality Assurance Specialist', 'Lead Phlebotomist', 'Laboratory Supervisor', 'Process Improvement Specialist', 'Customer Service Manager', 'Logistics Coordinator', 'Field Service Technician', 'Operations Supervisor', 'Sales Representative']",1i4ldc5kim6rr800,"['Clinic Technician', 'Laboratory Blood Bank Supervisor FT Days']"
 257189102,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -2609,6 +2654,7 @@ CNA, BLS Certification, BLS Certification, CPR Certification, State Tested Nursi
 CNS
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['laborer', 'utility operator', 'warehouse associate']
 
@@ -2666,9 +2712,10 @@ None
     ""justification"": ""The job seeker has relevant skills and has shown interest in warehouse roles, making this a suitable next step.""
   }
 ]
-```"
+```",1722959999,[],"['Warehouse Associate', 'Material Handler', 'Utility Operator', 'Certified Nursing Assistant (CNA)', 'Patient Care Technician', 'Order Picker', 'Shipping and Receiving Clerk', 'Machine Operator', 'Caregiver', 'Distribution Center Associate']",1i4k6mbvnggng800,['CNA - Certified Nursing Assistant $28']
 273476342,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -2734,6 +2781,7 @@ Driver's License, Drivers License, Forklift Certification
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['warehouse lead', 'production assembler', 'machine operator', 'order filler']
 
@@ -2791,9 +2839,10 @@ None
         ""justification"": ""The job seeker has clicked on this job title and has experience in quality control and general labor, which could be relevant for a role in asset protection.""
     }
 ]
-```"
+```",1722971512,"['production technician', 'material handler', 'technician', 'utility line locator', 'management trainee', 'chemical operator']","['Warehouse Lead', 'Production Assembler', 'Machine Operator', 'Order Filler', 'Material Handler', 'Utility Worker', 'Forklift Operator', 'Shipping & Receiving Clerk', 'Local Driver', 'Asset Protection Associate']",1i4khlmq9kkfo801,[]
 299705755,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -2863,6 +2912,7 @@ None
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['sandwich maker', 'shift leader', 'greeter', 'food runner']
 
@@ -2920,9 +2970,10 @@ None
         ""justification"": ""The job seeker has searched for receptionist roles and has relevant experience managing front desk operations as a Concierge Security.""
     }
 ]
-```"
+```",1722990627,"['front desk agent', 'sales associate', 'cashier', 'customer service representative', 'crew member', 'concession stand worker', 'seasonal associate', 'host/hostess', 'customer service associate / cashier', 'kitchen team member']","['Shift Leader', 'Retail Sales Associate', 'Crew Member', 'Food Runner', 'Host/Hostess', 'Concierge', 'Cashier', 'Greeter', 'Server', 'Receptionist']",1i4l3t1v4i3on800,[]
 330239169,"
 ***JS Resume***
+
 ****Resume Header****
 Motivational Trainer dedicated to open communication and transparent needs assessment to support client progress. Focused on empowerment and high-quality movement with expertise in mobility, strength-training and breathwork. Record of success in building and retaining loyal clientele.
 
@@ -2967,6 +3018,7 @@ None
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['payroll clerk', 'cook', 'cleaner', 'resident care associate', 'housekeeper', 'deli associate', 'custodian', 'house cleaner', 'kitchen helper']
 
@@ -3024,9 +3076,10 @@ None
         ""justification"": ""The job seeker has experience in food service and has searched for part-time and food service roles, making this a logical next step.""
     }
 ]
-```"
+```",1722984782,"['dental assistant', 'veterinary assistant', 'meat cutter']","['Prep Cook', 'Housekeeper', 'Resident Care Associate', 'Deli Associate', 'Custodian', 'Kitchen Helper', 'Café Manager', 'Payroll Clerk', 'Cleaner', 'Food Service Worker']",1i4kuam0ti3on800,[]
 338984245,"
 ***JS Resume***
+
 ****Resume Header****
 ASSISTANT FOOD & BEVERAGE MANAGER
 CLIENT-CENTERED • DETAIL DRIVEN • LEADER • HIGHLY EFFECTIVE
@@ -3079,6 +3132,7 @@ TABC Certification, Food Safety Certification, Driver's License
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['general manager', 'restaurant manager', 'bartender', 'food and beverage manager', 'hotel manager', 'front of house manager', 'bar staff', 'regional director', 'territory manager', 'customer service representative']
 
@@ -3136,9 +3190,10 @@ None
         ""justification"": ""The job seeker has applied for general manager positions and has the experience to support a step up to an assistant general manager role as an intermediary step.""
     }
 ]
-```"
+```",1722962901,"['general manager', 'restaurant manager', 'hotel manager', 'food and beverage manager', 'restaurant staff']","['Food and Beverage Manager', 'Restaurant Manager', 'Hotel Manager', 'Front of House Manager', 'Banquet Manager', 'Operations Manager', 'Regional Director', 'Customer Service Manager', 'Bar Manager', 'Assistant General Manager']",1i4k9etbvma4g800,[]
 342152544,"
 ***JS Resume***
+
 ****Resume Header****
 Seeking positions with a strong company in which to use my skills to further my career and contribute to the success of organization.
 Willing to relocate: Anywhere
@@ -3198,6 +3253,7 @@ Forklift Certification, Pallet Jack Certification
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['warehouse associate', 'warehouse worker', 'laborer', 'sales associate', 'customer service representative', 'material handler', 'forklift operator', 'cashier', ""driver's mate"", 'scale operator']
 
@@ -3255,9 +3311,10 @@ None
     ""justification"": ""The job seeker has applied for scale operator positions, suggesting this could be a viable next step in their career.""
   }
 ]
-```"
+```",1722961777,"['production assembler', 'installer', 'janitor', 'qc technician', 'cashier', 'laborer', 'distribution specialist', 'forklift operator', 'manufacturing associate', 'production associate']","['Warehouse Associate', 'Material Handler', 'Forklift Operator', 'Warehouse Worker', 'Shipping & Receiving Clerk', 'Production Worker', 'Team Leader', 'Customer Service Representative', ""Driver's Mate"", 'Scale Operator']",1i4k8ck1nikqb800,[]
 342649974,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -3291,6 +3348,7 @@ Motorcycle License, Driver's License
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 None
 
@@ -3348,9 +3406,10 @@ None
     ""justification"": ""The job seeker has experience in quality assurance and operations management, making this a potential career advancement.""
   }
 ]
-```"
+```",1722949468,[],"['Store Manager', 'Operations Manager', 'Customer Service Manager', 'Property Manager', 'Security Manager', 'Assistant Operations Manager', 'Retail Sales Manager', 'Logistics Coordinator', 'Shift Supervisor', 'Quality Assurance Manager']",1i4jskvo02i75000,['Police Officer']
 343096829,"
 ***JS Resume***
+
 ****Resume Header****
 Self Employed - Self Employed
 To secure a full time position with a company that will utilize my knowledge and
@@ -3401,6 +3460,7 @@ None
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['driver']
 
@@ -3458,9 +3518,10 @@ None
     ""justification"": ""The job seeker has shown interest in heavy truck driving roles, which could be a potential advancement from light truck driving.""
   }
 ]
-```"
+```",1722961616,[],"['Delivery Driver', 'Light Truck Driver', 'Warehouse Associate', 'Production Operator', 'Order Picker', 'Shuttle Driver', 'Yard Driver', 'Production Technician', 'Machine Operator', 'Heavy Truck Driver']",1i4k87md5g2dk800,"['Shipping Clerk', 'Truck Drivers']"
 347330743,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -3490,6 +3551,7 @@ Patient Care Technician, Certified Medical Assistant, CNA, CPR Certification, CC
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['nursing assistant', 'prior authorization specialist', 'care coordinator', 'medical biller', 'medical receptionist', 'medical assistant', 'home health aide', 'front desk receptionist', 'staffing coordinator', 'author']
 
@@ -3547,9 +3609,10 @@ None
     ""justification"": ""The job seeker has strong customer service skills and has searched for remote healthcare roles, making this a plausible next step.""
   }
 ]
-```"
+```",1722941532,"['admitting registrar', 'care coordinator', 'inside sales representative', 'driver', 'patient care coordinator']","['Prior Authorization Specialist', 'Care Coordinator', 'Medical Receptionist', 'Medical Assistant', 'Nursing Assistant', 'Patient Care Coordinator', 'Scheduler', 'Medical Biller', 'Home Health Aide', 'Healthcare Customer Support']",1i4jl2q44i03n801,"['Certified Medical Assistant / EMT / Paramedic - Roswell', 'Travel Echo Tech/Cardiac Sonographer', 'Physician PRN Flexible Disability Exam Role', 'Travel Ultrasound Tech Maternal Fetal']"
 357930912,"
 ***JS Resume***
+
 ****Resume Header****
 Analytical, organized, detail oriented, and collaborative team player with ownership mentality and track record of delivering the highest quality solutions to resolve challenges and propel business growth.
 
@@ -3585,6 +3648,7 @@ None
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['account coordinator', 'intake coordinator', 'customer service representative', ""manufacturer's representative""]
 
@@ -3642,9 +3706,10 @@ None
     ""justification"": ""The job seeker has clicked on this role and has shown interest in account-related positions. Their skills in time management and attention to detail are valuable for this role.""
   }
 ]
-```"
+```",1722979305,"['client representative', 'data analyst']","['Customer Service Representative', 'Intake Coordinator', 'Account Coordinator', 'Sales Representative', 'Administrative Assistant', 'Data Specialist', 'Support Specialist', 'Office Assistant', 'Call Center Representative', 'Account Manager']",1i4kp3h81ma4j800,[]
 361427378,"
 ***JS Resume***
+
 ****Resume Header****
 Enthusiastic individual with superior skills in working in both team-based and independent capac- ities. Bringing strong work ethic and excellent organizational skills to any setting. Excited to begin new challenge with successful team. Hardworking and reliable Operator with strong ability in coil tubing and well treatment. Able to multitask, highly organized, proactive and punctual.
 
@@ -3755,6 +3820,7 @@ First Aid Certification, Confined Space Certification, Forklift Certification, C
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['fleet manager', 'auto appraiser', 'dispatcher', 'production supervisor', 'gas technician', 'terminal manager', 'alarm technician', 'branch manager', 'parts manager', 'field service technician']
 
@@ -3812,9 +3878,10 @@ None
         ""justification"": ""The job seeker has clicked on control room operator roles and has experience in operating and monitoring equipment, making it a suitable career progression.""
     }
 ]
-```"
+```",1722969977,"['plant operator', 'shop foreman', 'account manager', 'technician', 'supply chain manager', 'wholesale manager', 'market manager', 'shop manager']","['Fleet Manager', 'Auto Appraiser', 'Dispatcher', 'Production Supervisor', 'Gas Technician', 'Terminal Manager', 'Operations Manager', 'Maintenance Supervisor', 'Field Service Technician', 'Control Room Operator']",1i4kg6sadgric801,"['Insurance Producer', 'Commercial Roofing Estimator', 'Risk & Safety Specialist']"
 362027476,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -3856,6 +3923,7 @@ CPR Certification, Microsoft Office Specialist, Driver's License, Guard Card
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['account representative', 'commercial sales executive', 'sales representative', 'outside sales representative']
 
@@ -3913,9 +3981,10 @@ None
         ""justification"": ""The job seeker has applied for roles in solar and energy sales, and this aligns with their sales experience and interest in the field.""
     }
 ]
-```"
+```",1722998311,"['outside sales representative', 'senior account representative', 'sales representative', 'mover', 'geotechnical technician', 'casino dealer']","['Outside Sales Representative', 'Sales Representative', 'Account Representative', 'Customer Service Representative', 'Car Sales Executive', 'Commercial Sales Executive', 'Scheduler', 'F&I Manager', 'Director of Social Services', 'Solar Sales Representative']",1i4lb7i21kcn7801,"['Drive with Lyft', 'Drivers Needed in Johnson City', 'Delivery Associate', 'Pizza Delivery Driver', 'Local CDL B Truck Driver (5529)', 'Contract Delivery Driver - Must Own a Van (Cargo/Sprinter Van)']"
 362191551,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -3936,6 +4005,7 @@ None
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['roustabout', 'assistant technician', 'cleaner']
 
@@ -3993,9 +4063,10 @@ None
     ""justification"": ""The job seeker has applied for cleaner roles, indicating an interest in this type of work, which can be a complementary role to their technical skills.""
   }
 ]
-```"
+```",1722951647,[],"['Roustabout', 'Assistant Technician', 'Maintenance Technician', 'Drill Operator', 'Field Service Technician', 'Oil and Gas Technician', 'Equipment Operator', 'General Laborer', 'Maintenance Assistant', 'Industrial Cleaner']",1i4jung5hjfl7801,[]
 366486051,"
 ***JS Resume***
+
 ****Resume Header****
 I'm available to start immediatelyHard worker , friendly and respectful, get things done on time and I work well with others 
 
@@ -4030,6 +4101,7 @@ Cosmetology, Reliable transportation, Home Health Aide, First Aid Certification,
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['housekeeper', 'machine operator', 'customer service representative', 'sales associate', 'line operator', 'guest service agent', 'pt', 'animal caretaker', 'retail sales associate', 'office assistant']
 
@@ -4087,9 +4159,10 @@ None
     ""justification"": ""The job seeker has clicked on packager roles and has searched for warehouse jobs, indicating an interest in this field.""
   }
 ]
-```"
+```",1722932679,"['front desk agent', 'production operator', 'therapeutic program worker', 'general manager', 'assistant operator', 'jewelry associate', 'sanitation worker', 'desk clerk', 'shift coordinator']","['Customer Service Representative', 'Office Assistant', 'Sales Associate', 'Front Desk Agent', 'Retail Sales Associate', 'Animal Caretaker', 'Production Worker', 'Guest Service Agent', 'Machine Operator', 'Packager']",1i4jckjtkjii2800,"['Activities Director- Full Time Dayshift', 'Resident Assistant (RA) - FT, PT, or PRN', 'Resident Assistant', 'Special Education Aide', 'Life Enrichment Coordinator', 'Classroom Recreation Aide', 'Certified Therapeutic Recreation Specialist (CTRS)', 'Physical Therapy Assistant-PRN', 'Jr. High Assistant Cross Country Coach']"
 367491068,"
 ***JS Resume***
+
 ****Resume Header****
 REFERENCES
 Bobbi Tomlin
@@ -4140,6 +4213,7 @@ Property & Casualty License
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['medical receptionist', 'front desk receptionist', 'veterinary receptionist', 'sales associate', 'medical scheduler', 'receptionist', 'front desk agent', 'actor', 'monitor', 'administrative assistant']
 
@@ -4197,9 +4271,10 @@ None
         ""justification"": ""The job seeker has a strong background in customer service and has shown interest in roles that involve customer interaction.""
     }
 ]
-```"
+```",1722956967,"['office aide', 'team leader', 'patient services representative', 'surgical coordinator', 'chiropractic assistant', 'retail assistant manager', 'front desk receptionist', 'customer service representative']","['Medical Receptionist', 'Veterinary Receptionist', 'Front Desk Receptionist', 'Administrative Assistant', 'Medical Scheduler', 'Sales Associate', 'Leasing Agent', 'Veterinary Technician', 'Office Manager', 'Customer Service Representative']",1i4k3pr6fjii3801,['Operations Support Specialist']
 399419715,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -4225,6 +4300,7 @@ None
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['solution specialist', 'customer service representative', 'automotive technician', 'warehouse associate', 'mechanic', 'press operator', 'business development', 'mechanical assembler', 'overnight manager']
 
@@ -4282,9 +4358,10 @@ None
     ""justification"": ""This role aligns with the job seeker's previous experience and skills in order picking and warehouse operations.""
   }
 ]
-```"
+```",1722931828,"['automotive mechanic', 'chief information officer', 'shipfitter', 'investigator', 'correctional officer', 'senior automotive technician']","['Warehouse Associate', 'Customer Service Representative', 'Maintenance Mechanic', 'Mechanical Assembler', 'Technician', 'Press Operator', 'Overnight Manager', 'Automotive Technician', 'Logistics Coordinator', 'Order Picker']",1i4jbql7fi03n801,['Produce Order Writer (Buyer / Inventory Replenishment)']
 404203204,"
 ***JS Resume***
+
 ****Resume Header****
 Graphic Design, Marketing
 
@@ -4340,6 +4417,7 @@ AED Certification, First Aid Certification, CPR Certification, Certified Persona
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 None
 
@@ -4397,9 +4475,10 @@ None
     ""justification"": ""The jobseeker has experience in marketing internships and project coordination, making a marketing assistant role a plausible next step.""
   }
 ]
-```"
+```",1722983644,[],"['Junior Graphic Designer', 'Marketing Coordinator', 'Event Coordinator', 'Digital Marketing Assistant', 'Project Assistant', 'Administrative Assistant', 'Data Analyst Intern', 'Social Media Coordinator', 'Content Creator', 'Marketing Assistant']",1i4kt7u7lgric801,[]
 412376020,"
 ***JS Resume***
+
 ****Resume Header****
 • Adept at defining customer requirements and meeting their needs.Knowledge, training, and practical experience with computerized data bases for tracking, ordering, receiving, and reporting of material, supplies and shipments.
 
@@ -4480,6 +4559,7 @@ Forklift Certification, Driver's License
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 None
 
@@ -4537,9 +4617,10 @@ None
         ""justification"": ""The job seeker has searched for 'mortuary assistant,' indicating an interest in this field. While it represents a career shift, their customer service and organizational skills could be transferable.""
     }
 ]
-```"
+```",1723003927,"['correctional officer', 'border patrol agent']","['Local Driver', 'CDL Trainee', 'Warehouse Supervisor', 'Freight Coordinator', 'Delivery Driver', 'Logistics Coordinator', 'Forklift Operator', 'Material Coordinator', 'Shipping and Receiving Clerk', 'Mortuary Assistant']",1i4lgiu332fd3001,"['CDL A Local Driver - Fife, WA', 'Local Class A Tanker Truck Driver (5655)', 'Local CDL A Truck Driver - $29/hr']"
 420765139,"
 ***JS Resume***
+
 ****Resume Header****
 Clerical/Administrative Assistance/Bookkeeping: 6 months
 Warehouse Associate: 3 years
@@ -4620,6 +4701,7 @@ Forklift Certified, Driver's License
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 None
 
@@ -4677,9 +4759,10 @@ None
     ""justification"": ""With experience in warehouse operations, inventory management, and data entry, the jobseeker could advance to a role focused on maintaining accurate inventory records.""
   }
 ]
-```"
+```",1722972086,[],"['Health Information Management Specialist', 'Logistics Coordinator', 'Administrative Assistant', 'Data Entry Specialist', 'Customer Service Representative', 'Office Manager', 'Sales Coordinator', 'Warehouse Supervisor', 'Medical Records Clerk', 'Inventory Control Specialist']",1i4ki77ffma4k800,['Customer Service Representative']
 422014015,"
 ***JS Resume***
+
 ****Resume Header****
 Professional Summary
 Exceptional sales support professional who knows how to handle large workloads and exceed quotas. Great customer service skills to provide clients with best service possible and resolve conflicts when they arise. Leadership skills to take initiative and encourage team members to perform at their best. Cheerful personality to make potential clients feel at ease and offer support when there are uncertainties around the office.
@@ -4786,6 +4869,7 @@ None
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['inventory lead']
 
@@ -4843,9 +4927,10 @@ None
         ""justification"": ""The job seeker has experience as a Lead Sales Consultant at Garnet + Grace Bridal Boutique, making this a suitable next step.""
     }
 ]
-```"
+```",1722988545,"['member services representative', 'talent coordinator', 'customer service representative', 'customer specialist']","['Inventory Lead', 'Customer Service Representative', 'Sales Representative', 'Budtender', 'Marketing Coordinator', 'Administrative Assistant', 'Retail Sales Associate', 'Visual Merchandising Manager', 'Shift Leader', 'Sales Consultant']",1i4l1tg6s2fd2001,[]
 423993169,"
 ***JS Resume***
+
 ****Resume Header****
 Best customer service
 Skills
@@ -4884,6 +4969,7 @@ None
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 None
 
@@ -4941,9 +5027,10 @@ None
     ""justification"": ""The job seeker's management and leadership skills, combined with their retail experience, make this a plausible next step.""
   }
 ]
-```"
+```",1722981205,"['insurance agent', 'call center representative', 'management trainee', 'sales representative']","['Retail Sales Associate', 'Customer Service Representative', 'Sales Associate', 'Cashier', 'Store Manager', 'Sales Consultant', 'Help Desk Support', 'Retail Supervisor', 'Telemarketer', 'Assistant Store Manager']",1i4kqth0pma4j801,[]
 428193671,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -4977,6 +5064,7 @@ Driver's License, Food Handler Certification
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['delivery driver', 'retail sales associate', 'customer service representative', 'front desk agent', 'sales associate', 'car wash attendant', 'car sales executive', 'warehouse worker', 'housekeeper', 'warehouse associate']
 
@@ -5034,9 +5122,10 @@ None
         ""justification"": ""The job seeker has clicked on order picker positions, indicating an interest in this specific warehouse role.""
     }
 ]
-```"
+```",1722925921,"['delivery driver', 'healthcare customer service representative', 'order picker', 'parts manager', 'laborer', 'outbound call center representative', 'sales representative', 'bank clerk']","['Delivery Driver', 'Retail Sales Associate', 'Customer Service Representative', 'Front Desk Agent', 'Warehouse Associate', 'Sales Associate', 'Car Wash Attendant', 'Housekeeper', 'Warehouse Supervisor', 'Order Picker']",1i4j66c6tgric801,"['Delivery Driver - Earn Extra Cash', 'Drive with DoorDash', 'Dashers - Sign Up and Start Earning', 'Upfitter Technician']"
 432167070,"
 ***JS Resume***
+
 ****Resume Header****
 Motivated Worker who demonstrates a strong work ethic and great communication skills. I am a fast learner, honest, diligent, and organized.
 
@@ -5120,6 +5209,7 @@ None
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 [""teacher's aide"", 'teacher', 'paraprofessional', 'daycare teacher', 'preschool teacher', 'special education teacher', 'early childhood teacher']
 
@@ -5177,9 +5267,10 @@ None
     ""justification"": ""The job seeker has clicked on this role, and their diverse experience in customer service and education could translate well into a recreational arts instructor position.""
   }
 ]
-```"
+```",1722949716,[],"[""Teacher's Aide"", 'Preschool Teacher', 'Special Education Teacher', 'Paraprofessional', 'Daycare Teacher', 'Early Childhood Teacher', 'Teaching Assistant', 'Learning Specialist', 'Childcare Worker', 'Recreational Arts Instructor']",1i4jsshh7i3on800,"['$21/hr Bilingual Driving Instructor Needed/Veterans May Apply', 'Temporary PT Program Assistant']"
 433522172,"
 ***JS Resume***
+
 ****Resume Header****
 To be an expert in my area of work, with a passion for challenges, innovation and working with people and providing excellent customer service to both internal and external customers. A dedicated worker aiming to help achieve company goals and take on as much responsibility as quickly as possible.
 
@@ -5267,6 +5358,7 @@ None
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['customer service representative', 'caregiver', 'appointment generator', 'qualified medication aide', 'administrative assistant', 'server', 'call center representative', 'office administrator', 'classroom assistant', 'recycling worker']
 
@@ -5324,9 +5416,10 @@ None
         ""justification"": ""The job seeker has applied for this role and has relevant experience in customer service and administrative tasks, making it a feasible next step.""
     }
 ]
-```"
+```",1722956704,"['customer service representative', 'assisted living attendant', 'entry level customer service representative', 'financial professional', 'sales consultant', 'collection agent', 'customer support representative', 'loss prevention manager']","['Customer Service Representative', 'Claims Adjuster', 'Caregiver', 'Qualified Medication Aide', 'Administrative Assistant', 'Call Center Representative', 'Member Services Representative', 'Process Server', 'Nursing Assistant', 'Appointment Generator']",1i4k3hps1j2rm800,"['Patient Care Technician', 'Patient Service Tech - CMV', 'Radiology Tech - Imaging Diagnostic Foothills', 'Radiology Tech Float Pool', 'Patient Care Technician', 'CT Tech', 'Multi-Modality Tech', 'Rehabilitation Therapy Tech']"
 434967424,"
 ***JS Resume***
+
 ****Resume Header****
 I’m a hardworking young woman looking for a career path to grow and learn.
 Willing to relocate: Anywhere
@@ -5374,6 +5467,7 @@ PERC Card, First Aid Certification, Child Development Associate Certification, F
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['in home caregiver', 'security officer', 'data entry clerk', 'residential security officer']
 
@@ -5431,9 +5525,10 @@ None
     ""justification"": ""The job seeker has experience monitoring cameras and ensuring safety at the front desk, making this a suitable advancement in the security field.""
   }
 ]
-```"
+```",1722971207,['customer service representative'],"['Security Officer', 'Residential Security Officer', 'In Home Caregiver', 'Data Entry Clerk', 'Customer Service Representative', 'Retail Sales Associate', 'Crew Member', 'Food Service Worker', 'Warehouse Associate', 'Front Desk Security Officer']",1i4khccisjii2801,[]
 437572181,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -5476,6 +5571,7 @@ Pharmacy Technician Trainee Certification, ServSafe, Driver's License
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['cook', 'crew member', 'shift manager', 'line cook', 'store manager', 'guest service agent', 'customer service representative', 'distribution associate', 'retail sales associate', 'shift leader']
 
@@ -5533,9 +5629,10 @@ None
     ""justification"": ""The job seeker has applied for shift leader positions and has relevant experience in managing shifts in various food service establishments.""
   }
 ]
-```"
+```",1722938568,"['crew member', 'retail sales associate', 'assistant store manager', 'operations supervisor', 'assistant manager', 'guest service agent']","['Shift Manager', 'Store Manager', 'Customer Service Representative', 'Distribution Associate', 'Line Cook', 'Guest Service Agent', 'Retail Sales Associate', 'Kitchen Manager', 'Cook', 'Shift Leader']",1i4ji8baaitkg800,[]
 446046740,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -5580,6 +5677,7 @@ Driver's License
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['delivery driver', 'lot attendant', 'account administrator', 'logistic coordinator', 'parts runner', 'tow truck driver', 'inventory manager', 'lot porter', 'photographer', 'transport driver']
 
@@ -5637,9 +5735,10 @@ None
         ""justification"": ""The job seeker has clicked on customer service representative roles, and their experience in various roles involving customer interaction makes this a plausible next step.""
     }
 ]
-```"
+```",1722972791,['shipping and receiving clerk'],"['Delivery Driver', 'Logistics Coordinator', 'Tow Truck Driver', 'Lot Attendant', 'Parts Runner', 'Inventory Manager', 'Transport Driver', 'Warehouse/Driver', 'Operations Associate', 'Customer Service Representative']",1i4kiso8age5b801,"['ATV Trail Guide', 'Mobile Crane/Bucket Truck Inspector']"
 446724094,"
 ***JS Resume***
+
 ****Resume Header****
 #readytoworkSummary of Skills:
 	• Leadership abilities
@@ -5691,6 +5790,7 @@ Driver's License, OLCC Service Permit
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['direct support professional', 'financial advisor', 'delivery driver', 'driver', 'sales']
 
@@ -5748,9 +5848,10 @@ None
         ""justification"": ""The job seeker has applied for driver roles, including bus driver positions, and has relevant driving experience.""
     }
 ]
-```"
+```",1722946590,['account executive'],"['Delivery Driver', 'Material Handler', 'Direct Support Professional', 'Sales Associate', 'Financial Advisor', 'Warehouse Associate', 'Customer Service Representative', 'Shelter Advocate', 'Construction Laborer', 'Bus Driver']",1i4jpt4vmi01c801,"['Delivery Driver- Amazon Packages (NO THC Test Required)', 'Delivery Drivers Needed! No CDL required', 'Delivery Driver']"
 449256153,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -5781,6 +5882,7 @@ Medical Terminology
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['front desk receptionist']
 
@@ -5838,9 +5940,10 @@ None
     ""justification"": ""Given the job seeker's organizational skills and interest in administrative roles, this position could be a good fit for their next career step.""
   }
 ]
-```"
+```",1722979182,['senior collection agent'],"['Front Desk Receptionist', 'Administrative Assistant', 'Medical Receptionist', 'Customer Service Representative', 'Loan Servicing Specialist', 'Sales Assistant', 'Back Office Medical Assistant', 'Quality Assurance Specialist', 'Bilingual Customer Support Specialist', 'Office Coordinator']",1i4kovpftgsvl801,['Customer Associate Ventura']
 454581903,"
 ***JS Resume***
+
 ****Resume Header****
 Success
 Eager to talk about my future employment ,
@@ -5901,6 +6004,7 @@ First Aid Certification, ServSafe, CPR Certification, Driver's License
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['direct support professional', 'maintenance technician', 'dietary cook', 'territory sales', 'extraction technician', 'marketing coordinator', 'production technician', 'developer', 'executive recruiter', 'marketing representative']
 
@@ -5958,9 +6062,10 @@ None
         ""justification"": ""The job seeker has clicked on behavioral specialist roles and has experience in customer service and caregiving, which could translate well into this field.""
     }
 ]
-```"
+```",1722977794,"['chef manager', 'inside sales representative', 'warehouse worker', 'refuse collector', 'tower technician', 'chemical operator', 'restoration manager', 'customer service representative', 'co-manager', 'outside sales representative']","['Maintenance Technician', 'Marketing Coordinator', 'Dietary Manager', 'Production Technician', 'Territory Sales Representative', 'Facilities Maintenance Supervisor', 'Marketing Specialist', 'Construction Project Manager', 'Executive Recruiter', 'Behavioral Specialist']",1i4knldiin8ck800,"['Event Marketer', 'Marketing and Social Media Manager', 'Marketing Representative', 'Entry Level Marketing']"
 475402079,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -5999,6 +6104,7 @@ TIPS Certified, Driver's License, ServSafe
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['server', 'bartender', 'head server']
 
@@ -6056,9 +6162,10 @@ None
     ""justification"": ""The job seeker has shown interest in roles related to events and has the organizational and customer service skills necessary for coordinating events.""
   }
 ]
-```"
+```",1722995375,[],"['Head Server', 'Bartender', 'Banquet Captain', 'Food Runner', 'Restaurant Shift Supervisor', 'Catering Coordinator', 'Assistant Restaurant Manager', 'Host/Hostess Trainer', 'Sales Lead', 'Event Coordinator']",1i4l8duabj4os800,"['Server - The Harp Patriot Place', 'Experienced Servers']"
 482948239,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -6116,6 +6223,7 @@ First Aid Certification, CPR Certification, CNA
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['pet groomer', 'bartender', 'server', 'pet sitter', 'animal control officer', 'handler']
 
@@ -6173,9 +6281,10 @@ None
     ""justification"": ""The job seeker has extensive experience in animal care and handling, making this a logical next step in their career progression.""
   }
 ]
-```"
+```",1722965514,[],"['Pet Groomer', 'Animal Control Officer', 'Bartender', 'Animal Shelter Manager', 'Server', 'Pet Sitter', 'Front Desk Receptionist', 'Optometric Technician', 'Personal Shopper', 'Animal Care Technician']",1i4kbulqtkcn7801,['EXPERIENCED OB/GYN']
 488275199,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -6202,6 +6311,7 @@ CPR Certification
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['patient services representative', 'nursing assistant', 'customer service representative', 'dental assistant', 'direct support professional', 'caregiver', 'broker', 'treatment coordinator', 'medical technician', 'receptionist']
 
@@ -6259,9 +6369,10 @@ None
     ""justification"": ""The job seeker has clicked on support coordinator roles, and their leadership experience as a crew trainer and skills in customer service could be applicable.""
   }
 ]
-```"
+```",1722941715,[],"['Nursing Assistant', 'Patient Services Representative', 'Direct Support Professional', 'Caregiver', 'Customer Service Representative', 'Dental Assistant', 'Medical Technician', 'Receptionist', 'Behavior Technician', 'Support Coordinator']",1i4jl8c49m6rr800,['Tacos4Life New Store Opening! Cashier- Cooks- Prep Cooks- AM and PM available!']
 488836946,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -6309,6 +6420,7 @@ None
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['veterinary assistant', 'veterinary receptionist', 'technical assistant', 'customer service representative']
 
@@ -6366,9 +6478,10 @@ None
     ""justification"": ""The job seeker has applied for roles in veterinary and lab animal assistant occupations, and their background in veterinary settings supports this progression.""
   }
 ]
-```"
+```",1722998246,[],"['Veterinary Assistant', 'Veterinary Receptionist', 'Veterinary Technician', 'Customer Service Representative', 'Customer Care Specialist', 'Pet Groomer', 'Front Desk Receptionist', 'Pet Sitter', 'Technical Assistant', 'Veterinary Lab Assistant']",1i4lb5ib2iq5t801,"['Cash Management Service Teller - 1st shift', 'Bank Teller', 'Financial Wellness Banker - Castle Pines Branch']"
 488901815,"
 ***JS Resume***
+
 ****Resume Header****
 Additional experience at St. Paper in oconto falls as rf utility, loaded and unloaded raw material and loaded finished goods along with Suominen Green Bay nonwovens across the street from you I loaded finished goods on weekends when shipping wasn't available. Have experience with LULL heavy equipment and skid-steer and back-hoe also.
 
@@ -6407,6 +6520,7 @@ OSHA certified, Driver's License, Forklift Certification, Pallet Jack Certificat
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['warehouse worker', 'shift leader', 'press operator']
 
@@ -6464,9 +6578,10 @@ None
     ""justification"": ""Given the job seeker's experience in keeping inventory organized in a warehouse setting, this role would be a suitable advancement.""
   }
 ]
-```"
+```",1722961903,"['forklift operator', 'senior machine operator', 'packager', 'construction laborer', 'operator', 'senior cnc machinist', 'shift leader', 'delivery driver']","['Warehouse Supervisor', 'Shift Leader', 'Logistics Coordinator', 'Forklift Operator Trainer', 'Production Supervisor', 'Material Handler Lead', 'Manufacturing Technician', 'Quality Control Inspector', 'Press Operator', 'Inventory Control Specialist']",1i4k8gfilghr0801,"['Machine Operator 2nd Shift', 'Brake Press Operator', 'Days - Press Assistant', 'Banding Machine Operator', 'Detailer Pulaski']"
 490885226,"
 ***JS Resume***
+
 ****Resume Header****
 Certified Medical Assistant
 Certified medical assistant 4 years of experience demonstrates compassionate patient care, knowledgeable in clinical procedures. Experience working in both fast-paced hospital environments and physician practices.
@@ -6510,6 +6625,7 @@ BLS Certification, Certified Medical Assistant (NCMA), Certified Medical Assista
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['medical assistant', 'certified medical assistant', 'health screener', 'nursing assistant', 'personal assistant', 'caregiver', 'care coordinator', ""nurse's aide"", 'bilingual customer service associate']
 
@@ -6567,9 +6683,10 @@ None
     ""justification"": ""The job seeker has searched for this role and it aligns with their administrative and clinical experience.""
   }
 ]
-```"
+```",1722967244,"['medical assistant', 'bilingual sales representative', 'makeup artist', 'certified medical assistant']","['Certified Medical Assistant', 'Health Screener', 'Patient Care Coordinator', 'Nursing Assistant', 'Caregiver', 'Patient Services Representative', 'Health Care Assistant', 'Customer Service Representative', 'Medical Receptionist', 'Unit Clerk']",1i4kdjf5g2i75001,['Medical Assistant/Lab Technician']
 496547746,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -6619,6 +6736,7 @@ None
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['electrical assembler', 'production operator', 'paint associate']
 
@@ -6676,9 +6794,10 @@ None
     ""justification"": ""The job seeker has previous experience in customer service, making this a plausible role if they wish to return to this field.""
   }
 ]
-```"
+```",1722971481,"['delivery driver', 'electrical assembler', 'assembly technician', 'shipping and receiving clerk', 'warehouse associate', 'packager']","['Electrical Assembler', 'Production Operator', 'Paint Associate', 'Technician', 'Machine Operator', 'Facilities Maintenance Technician', 'Warehouse Associate', 'Quality Control Inspector', 'Production Supervisor', 'Customer Service Representative']",1i4khkpfag2dk800,"['1st Shift Production Technician I', 'Assembler', '2nd Shift Setup Technician 1, Plastics']"
 496740422,"
 ***JS Resume***
+
 ****Resume Header****
 Solutions-focused, team oriented IT Professional with 24 years broad-based experience in the installation, configuration, maintenance, and management of Cisco network devices, Windows servers, multiple desktop operating systems, computer hardware &amp; peripherals, and encryption devices.
 
@@ -6772,6 +6891,7 @@ CCNP Security, CCNA, CCNA Security, CompTIA Network+, CCNP Enterprise, MCTS, ITI
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['network engineer']
 
@@ -6829,9 +6949,10 @@ None
     ""justification"": ""As cloud technologies become more prevalent, the job seeker's network engineering skills could transition well into cloud network engineering.""
   }
 ]
-```"
+```",1722966639,[],"['Senior Network Engineer', 'Network Security Engineer', 'Network Operations Manager', 'IT Infrastructure Manager', 'Network Architect', 'Cybersecurity Engineer', 'Senior Systems Engineer', 'Technical Project Manager', 'Network Consultant', 'Cloud Network Engineer']",1i4kd10ndge5b801,['Network Architect with CISCO ISE Deployment exp']
 501187357,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -6887,6 +7008,7 @@ BLS Certification, Nursing assistant certification, CNA, Driver's License, OIS, 
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['direct support professional', 'nursing assistant']
 
@@ -6944,9 +7066,10 @@ None
         ""justification"": ""The job seeker has clicked on this occupation and has relevant experience in patient care, making this a plausible next step.""
     }
 ]
-```"
+```",1722982988,"['mental health technician', 'house manager']","['Certified Nursing Assistant (CNA)', 'Direct Support Professional (DSP)', 'Patient Care Technician', 'Mental Health Technician', 'Medical Receptionist', 'Care Facility Administrator', 'Home Health Aide', 'Medical Assistant', 'Phlebotomist', 'Dialysis Technician']",1i4ksju9ggsvl801,[]
 505531417,"
 ***JS Resume***
+
 ****Resume Header****
 I am currently looking to relocate to Pensacola, FL
 
@@ -7012,6 +7135,7 @@ None
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['project manager', 'construction superintendent', 'operations manager', 'installation manager', 'field inspector', 'security guard', 'project coordinator']
 
@@ -7069,9 +7193,10 @@ None
         ""justification"": ""The job seeker has applied for security guard roles and has military experience, making a supervisory role in security a potential career shift.""
     }
 ]
-```"
+```",1722940758,"['electrical contractor', 'junior project manager', 'home inspector', 'construction planner', 'assistant superintendent', 'associate project manager', 'planner/scheduler', 'project manager', 'construction superintendent']","['Project Manager', 'Construction Superintendent', 'Operations Manager', 'Installation Manager', 'Field Inspector', 'Project Coordinator', 'Construction Project Manager', 'Construction Coordinator', 'Warehouse Manager', 'Security Supervisor']",1i4jkb5vhjii2801,[]
 506451884,"
 ***JS Resume***
+
 ****Resume Header****
 A results-driven supervisor with over five years of experience in utilizing operational planning tools to achieve regulatory compliance, increase productivity, and improve policies, while promoting a team-oriented approach to reaching company goals.
 
@@ -7113,6 +7238,7 @@ None
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['office manager', 'executive assistant', 'compliance officer', 'director of operations', 'quality assurance engineer', 'staffing coordinator', 'legal assistant', 'operations manager', 'medical office manager', 'administrative assistant']
 
@@ -7170,9 +7296,10 @@ None
     ""justification"": ""The jobseeker has shown interest in revenue cycle specialist roles, and their experience in compliance and billing accuracy makes this a plausible next step.""
   }
 ]
-```"
+```",1722960986,"['recruitment resourcer', 'executive assistant', 'director of admissions', 'mailroom clerk', 'office manager', 'human resources generalist', 'front desk manager', 'director of quality assurance', 'coordinator']","['Compliance Manager', 'Operations Manager', 'Quality Assurance Manager', 'Office Manager', 'Executive Assistant', 'Compliance Officer', 'Administrative Assistant', 'Staffing Coordinator', 'Community Manager', 'Revenue Cycle Specialist']",1i4k7kf8nkef1803,['Executive Assistant']
 510747278,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -7206,6 +7333,7 @@ Cosmetology License, Cosmetologist
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['customer service representative', 'veterinary receptionist', 'retail sales associate', 'accounts receivable clerk', 'front desk manager', 'front desk agent', 'receptionist/assistant']
 
@@ -7263,9 +7391,10 @@ None
         ""justification"": ""The job seeker has previous experience in sales of women's colognes and has clicked on this role, making it a plausible next step.""
     }
 ]
-```"
+```",1722961686,['early childhood teacher'],"['Receptionist', 'Front Desk Manager', 'Customer Service Representative', 'Accounts Receivable Clerk', 'Retail Sales Associate', 'Veterinary Receptionist', 'Front Desk Agent', 'Payroll Specialist', 'Direct Support Professional', 'Fragrance Consultant']",1i4k89rfrjii3801,"['Customer Service Representative', 'Bi-lingual Spanish Customer Service Rep - State Farm Team Member']"
 513488018,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -7379,6 +7508,7 @@ None
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['behavior technician', 'behavioral specialist', 'paraprofessional educator', 'special education paraprofessional', 'special education teacher', 'recruiter', 'instructional aide', 'administrative assistant', 'childcare provider', 'customer service representative']
 
@@ -7436,9 +7566,10 @@ None
         ""justification"": ""The job seeker has clicked on this role and has relevant experience as a Behavior Interventionist.""
     }
 ]
-```"
+```",1722991422,"['developer', 'appraiser', 'behavioral therapist', 'preschool teacher', 'regulatory project manager', 'administrative assistant']","['Behavior Technician', 'Special Education Paraprofessional', 'Instructional Aide', 'Customer Service Representative', 'Behavioral Specialist', 'Special Education Teacher', 'Recruiter', 'Administrative Assistant', 'Childcare Provider', 'Registered Behavior Technician']",1i4l4la2b2fd2000,['Substitute Teacher (Early Head Start)']
 515069065,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -7466,6 +7597,7 @@ None
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 None
 
@@ -7523,9 +7655,10 @@ None
     ""justification"": ""Fluency in Spanish and English opens opportunities for specialized sales roles that require bilingual communication skills.""
   }
 ]
-```"
+```",1722969267,"['delivery driver', 'bus driver', 'crew member', 'truck driver', 'conductor/a', 'messenger', 'butler', 'mail carrier', 'warehouse worker']","['Senior Sales Representative', 'Sales Supervisor', 'Account Manager', 'Warehouse Supervisor', 'Customer Service Manager', 'Sales Consultant', 'Retail Store Manager', 'Logistics Coordinator', 'Sales Trainer', 'Bilingual Sales Representative']",1i4kfh6rbjii2801,[]
 515601638,"
 ***JS Resume***
+
 ****Resume Header****
 Customer service professional with strong ability to multitask, prioritize, and manage time effectively. Team player with people skills and friendly positive attitude.
 
@@ -7618,6 +7751,7 @@ None
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['retail merchandiser', 'night auditor', 'project specialist', 'pharmacy technician', 'merchandiser', 'visual merchandiser', 'demonstrator']
 
@@ -7675,9 +7809,10 @@ None
         ""justification"": ""The job seeker has experience in warehouse roles and has clicked on shipping and receiving clerk job titles, indicating an interest in this area.""
     }
 ]
-```"
+```",1722999985,[],"['Retail Merchandiser', 'Visual Merchandiser', 'Lead Cashier', 'Pharmacy Technician', 'Project Specialist', 'Warehouse Supervisor', 'Customer Service Supervisor', 'Brand Ambassador', 'Night Auditor', 'Shipping & Receiving Clerk']",1i4lcqk2dghr0801,['Retail Buyer and Merchandising']
 524732402,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -7716,6 +7851,7 @@ None
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['medical receptionist', 'front desk agent']
 
@@ -7773,9 +7909,10 @@ None
     ""justification"": ""Their background in sales coordination and administrative tasks makes them well-suited for a role that combines both functions.""
   }
 ]
-```"
+```",1722962997,"['medical receptionist', 'insurance agent', 'patient care coordinator', 'scheduling coordinator', 'leasing agent', 'sales coordinator', 'retail sales associate', 'appointment coordinator', 'makeup artist']","['Medical Receptionist', 'Front Desk Agent', 'Administrative Assistant', 'Customer Service Representative', 'Sales Support Specialist', 'Patient Coordinator', 'Office Coordinator', 'Client Services Specialist', 'Reception Manager', 'Sales Administrative Assistant']",1i4k9hrruh7j7805,"['Bilingual Sales Consultant', 'Bilingual Insurance Customer Service Representative', 'Bilingual Customer Service Representative']"
 525055038,"
 ***JS Resume***
+
 ****Resume Header****
 Conscientious and dedicated professional with 8+ years of experience in Patient
 Relations with a primary focus in Physical Therapy.
@@ -7823,6 +7960,7 @@ Licensed Physical Therapy Assistant, CPR Certification
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 None
 
@@ -7880,9 +8018,10 @@ None
         ""justification"": ""The job seeker has shown interest in remote work and customer support roles, and their experience in client relations makes this a suitable option.""
     }
 ]
-```"
+```",1722974143,['career manager'],"['Physical Therapist Assistant', 'Office Manager', 'Medical Office Administrator', 'Patient Relations Manager', 'Medical Billing Specialist', 'Executive Assistant', 'Medical Coder', 'Client Services Manager', 'Bookkeeper', 'Remote Customer Support Specialist']",1i4kk6073ikqb801,"['Physical Therapist Assistant/PTA ( PTA license and 3 years experience required)', 'Physical Therapist Assistant', 'Physical Therapist/Physical Therapist Assistant', 'Physical Therapist Assistant (Pelvic Floor & Ortho)']"
 525098094,"
 ***JS Resume***
+
 ****Resume Header****
 Responsible and ambitious student with a excellent time management. Seeking to apply my customer service abilities.
 
@@ -7920,6 +8059,7 @@ None
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['crew member', 'restaurant staff', 'cook', 'pizza cook', 'retail sales associate', 'housekeeper', 'sandwich maker', 'room attendant', 'food service worker', 'dining room server']
 
@@ -7977,9 +8117,10 @@ None
     ""justification"": ""With significant experience in various kitchen roles and food preparation, advancing to a kitchen manager position is a logical career progression.""
   }
 ]
-```"
+```",1722994494,['shift leader'],"['Restaurant Supervisor', 'Lead Server', 'Retail Shift Supervisor', 'Prep Cook', 'Housekeeping Supervisor', 'Food Service Worker', 'Dining Room Manager', 'Retail Sales Lead', 'Customer Service Team Lead', 'Kitchen Manager']",1i4l7j23jma4j800,[]
 527464213,"
 ***JS Resume***
+
 ****Resume Header****
 Energetic and responsible industry professional that thrives in a fast-paced work environment. Seeking bartending opportunity where I can utilize communication skills, hospitality experience, and creativity to contribute to a successful bar and company.
 
@@ -8043,6 +8184,7 @@ None
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['dental hygienist']
 
@@ -8096,9 +8238,10 @@ None
         ""justification"": ""With their experience as a lead bartender and managing bar operations, the job seeker could advance to a bar manager role, overseeing the entire bar staff and operations.""
     }
 ]
-```"
+```",1722984074,[],"['Dental Hygienist', 'Dental Assistant', 'Lead Dental Assistant', 'Oral Surgery Assistant', 'Veterinary Technician', 'ER Veterinary Technician', 'Bartender', 'Lead Bartender', 'Bar Manager']",1i4ktl2sfi3on800,"['Associate Dentist- Middletown, NY 800-1000/ day daily minimum Confidential\xa0–\xa0Middletown, NY']"
 527747609,"
 ***JS Resume***
+
 ****Resume Header****
 I am very organized, responsible, and dependable. As well as being very understanding and a quick learner. I enjoy learning new tasks and working with others.
 
@@ -8191,6 +8334,7 @@ Driver's License
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['real estate agent', 'treatment coordinator', 'front desk agent', 'account executive', 'real estate analyst']
 
@@ -8248,9 +8392,10 @@ None
         ""justification"": ""The job seeker has clicked on this role and has shown interest in financial positions, making it a potential career shift.""
     }
 ]
-```"
+```",1722987054,"['financial consultant', 'scheduler', 'administrative assistant', 'billing coordinator', 'accounting clerk', 'optician', 'front desk manager', 'branch administrator', 'customer service representative', 'accounting coordinator']","['Real Estate Agent', 'Treatment Coordinator', 'Front Desk Agent', 'Account Executive', 'Field Coordinator', 'Operations Assistant', 'Executive Administrative Assistant', 'Administrative Specialist', 'HR Coordinator', 'Financial Professional']",1i4l0g0lhgric801,"['Welding Instructor Full-Time Nights 2-11pm', 'Welder', 'Liner Technicians', 'On-Site/ Field Welder', 'Welder/Fabricator', 'Welder/Fitter, Forklift Driver, clerks']"
 533537647,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -8284,6 +8429,7 @@ Driver's License
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 None
 
@@ -8341,9 +8487,10 @@ None
     ""justification"": ""The job seeker’s skills in scheduling and coordination could be applied in an operations support role.""
   }
 ]
-```"
+```",1722975151,[],"['Security Supervisor', 'Loss Prevention Specialist', 'Customer Service Representative', 'CCTV Operator', 'Security Consultant', 'Dispatcher', 'Administrative Assistant', 'Delivery Coordinator', 'Retail Security Manager', 'Operations Assistant']",1i4kl4oj5ma4g800,['Delivery Driver']
 542181632,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -8399,6 +8546,7 @@ Pallet Jack Certification, Forklift Certification, Driver's License, Hazmat Endo
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['line cook', 'cook', 'server', 'delivery driver', 'forklift operator', 'receiver', 'order picker', 'warehouse worker', 'pool technician', 'maintenance technician']
 
@@ -8456,9 +8604,10 @@ None
         ""justification"": ""The job seeker has searched for barista positions, indicating an interest in this role.""
     }
 ]
-```"
+```",1722969017,"['loader', 'line cook', 'bartender', 'forklift operator', 'prep cook']","['Forklift Operator', 'Warehouse Associate', 'Order Picker', 'Delivery Driver', 'Material Handler', 'Warehouse Worker', 'Pool Technician', 'Maintenance Technician', 'Retail Sales Associate', 'Barista']",1i4kf9i0amskr801,"['CDL Truck Driver - Full Time, Part Time, Any Time', 'Hiring Escort Driver - Clayton Connect.']"
 543724443,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -8482,6 +8631,7 @@ Food Handler Certification, ServSafe
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['crew foreman', 'general manager', 'front of house manager', 'event manager', 'kitchen manager']
 
@@ -8539,9 +8689,10 @@ None
     ""justification"": ""The job seeker has clicked on this job title and searched for 'hiring immediately,' suggesting a potential interest in roles that offer immediate employment.""
   }
 ]
-```"
+```",1722970641,"['restaurant manager', 'general manager', 'compliance officer', 'culinary', 'construction superintendent', 'kitchen manager']","['General Manager', 'Front of House Manager', 'Kitchen Manager', 'Event Manager', 'Sales Manager', 'Crew Foreman', 'Claims Manager', 'Field Sales Representative', 'Human Resources Specialist', 'Delivery Driver']",1i4kgr3sdmb3e801,[]
 545604275,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -8587,6 +8738,7 @@ Driver's License
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['machine operator', 'extrusion operator', 'assembler', 'production worker', 'injection mold operator', 'production associate', 'press operator', 'manufacturing operator', 'process operator', 'line operator']
 
@@ -8644,9 +8796,10 @@ None
         ""justification"": ""The job seeker has clicked on forklift operator positions and has relevant experience with heavy machinery and warehouse operations, making this a viable option.""
     }
 ]
-```"
+```",1722967310,"['ice cream maker', 'pressman', 'machine operator', 'production operator', 'laborer', 'pipelayer', 'technical operator', 'pallet jack operator', 'assembler']","['Machine Operator', 'Production Worker', 'Extrusion Operator', 'Press Operator', 'Line Operator', 'Manufacturing Operator', 'Process Operator', 'Material Handler', 'Production Associate', 'Forklift Operator']",1i4kdlf5iis2j801,"['Low Voltage Installation Technician', 'ENGINEERING TECHNICIAN - Plant 10', 'AUTOMATION TECHNICIAN - Plant 10']"
 546459413,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -8675,6 +8828,7 @@ Veterinary assistant certification
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['kennel assistant', 'direct care worker', 'prep cook', 'cook', 'cleaner', 'ward clerk', 'janitor', 'veterinary receptionist', 'retail sales associate', 'banquet server']
 
@@ -8732,9 +8886,10 @@ None
         ""justification"": ""The job seeker has skills and certification in animal care and has shown interest in pet care occupations, making this a logical next step.""
     }
 ]
-```"
+```",1722963276,['cleaner'],"['Kennel Assistant', 'Veterinary Receptionist', 'Custodian', 'Janitor', 'Direct Care Worker', 'Prep Cook', 'Retail Sales Associate', 'Ward Clerk', 'Customer Service Representative', 'Animal Caretaker']",1i4k9qc3jis2j800,[]
 551801366,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -8799,6 +8954,7 @@ AHA Certification, Driver's License, BLS Certification, First Aid Certification,
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['administrative assistant', 'customer service representative', 'retail sales associate', 'patient services representative', 'court clerk', 'restaurant staff', 'residential manager', 'inbound sales representative', 'server', 'night team member']
 
@@ -8856,9 +9012,10 @@ None
         ""justification"": ""The job seeker has applied for this role. Their customer service and client support experience make them a good fit for a sales-oriented position.""
     }
 ]
-```"
+```",1723008059,"['ophthalmic technician', 'apartment manager', 'mental health technician']","['Administrative Assistant', 'Customer Service Representative', 'Residential Manager', 'Patient Services Representative', 'Retail Sales Associate', 'Direct Support Professional', 'Guest Service Agent', 'Court Clerk', 'Store Manager', 'Inbound Sales Representative']",1i4lkh0ulma4g801,[]
 552266441,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -8979,6 +9136,7 @@ None
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['customer service representative', 'call center representative', 'night auditor', 'customer service supervisor', 'customer success manager', 'operations supervisor', 'office administrator', 'customer service manager', 'technical support', 'help desk analyst']
 
@@ -9036,9 +9194,10 @@ None
         ""justification"": ""The job seeker has a strong background in customer support and has applied for similar roles, indicating continued interest in this field.""
     }
 ]
-```"
+```",1722988127,['front desk agent'],"['Customer Service Supervisor', 'Customer Success Manager', 'Help Desk Analyst', 'Operations Supervisor', 'Office Administrator', 'Technical Support Specialist', 'Customer Service Manager', 'Client Services Manager', 'Business Process Analyst', 'Customer Support Representative']",1i4l1goqdm0h6800,"['Enrollment Specialist', 'Experienced Moving Brokerage Sales Representative', 'Experienced Telemarketer – B2B Appointment Generator']"
 561703538,"
 ***JS Resume***
+
 ****Resume Header****
 30-year-old Las Vegas-native with a passion for photography, materials from the past, and the history behind them.
 
@@ -9067,6 +9226,7 @@ None
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['social media specialist', 'salesperson']
 
@@ -9124,9 +9284,10 @@ None
         ""justification"": ""The job seeker has clicked on retail associate roles and has previous experience as a Sales Advisor, making this a natural progression.""
     }
 ]
-```"
+```",1722971330,"['editor', 'printer']","['Social Media Specialist', 'Sales Advisor', 'Customer Service Representative', 'Administrative Assistant', 'Audio Visual Technician', 'Production Assistant', 'Library Assistant', 'Order Administrator', 'Call Center Representative', 'Retail Sales Associate']",1i4khg4s3ggng800,"['Paid Ad Video Editor', 'Audio/Video Rental House Shop Technician LV', 'AV Field Technician & Programmer']"
 565202700,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -9151,6 +9312,7 @@ Driver's License
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['dishwasher', 'cook']
 
@@ -9208,9 +9370,10 @@ None
     ""justification"": ""With experience in food handling and customer service, a barista role could be a suitable and interesting shift.""
   }
 ]
-```"
+```",1722951539,"['dishwasher', 'crew member', 'groundskeeper', 'pizza cook', 'sales associate', 'customer service/sales representative', 'attendant']","['Dishwasher', 'Line Cook', 'Prep Cook', 'Kitchen Assistant', 'Food Service Worker', 'Busser', 'Cashier', 'Stock Clerk', 'Customer Service Representative', 'Barista']",1i4juk5nukcn7801,"['Catering Openings - Captain / Attendants / Leads Waiters', 'Cook / Grill Cook / Sous Chef /Bakers', 'FOOD SERVICE JOBS - Food Service Worker Supervisor']"
 566050065,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -9231,6 +9394,7 @@ Certified Personal Trainer, First Aid Certification, Certified Fitness Instructo
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['customer service representative', 'front desk agent', 'sales associate', 'head custodian', 'sales assistant', 'server', 'sales representative', 'packer', 'retail manager', 'retail sales associate']
 
@@ -9288,9 +9452,10 @@ None
         ""justification"": ""The job seeker has applied for server roles and has restaurant experience, making this a feasible job title.""
     }
 ]
-```"
+```",1722981990,"['store manager', 'customer service representative', 'production operator', 'learning and development leader', 'retail sales associate', 'bartender', 'security officer', 'shipping and receiving clerk', 'call center representative', 'extrusion operator']","['Retail Sales Associate', 'Customer Service Representative', 'Front Desk Agent', 'Sales Associate', 'Warehouse Picker/Packer', 'Retail Manager', 'Shipping and Receiving Clerk', 'Head Custodian', 'Delivery Driver', 'Server']",1i4krlfh0i3on800,"['Part Time Strength and Conditioning/ Personal Training Coach', 'Part time Aquatics Coordinator']"
 571763739,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -9316,6 +9481,7 @@ Pallet Jack Certification
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['machine operator', 'warehouse associate']
 
@@ -9373,9 +9539,10 @@ None
     ""justification"": ""The job seeker has experience in packaging and has clicked on related job titles, making this a logical next step.""
   }
 ]
-```"
+```",1722957434,"['process operator', 'warehouse worker']","['Machine Operator', 'Warehouse Associate', 'Quality Control Inspector', 'Forklift Operator', 'CNC Operator', 'Packager', 'Warehouse Worker', 'Material Handler', 'Automotive Technician', 'Packaging Assembly Worker']",1i4k48364l23l800,"['Manufacturing Operator - 1st Shift', 'Assembler', 'Production Associate', 'Hybrid Assembler B']"
 585049068,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -9419,6 +9586,7 @@ First Aid Certification, Radiation Health & Safety Certification, CPR Certificat
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['dental assistant', 'phlebotomist', 'home health aide', 'medical assistant', 'behavior technician', 'certified medical assistant', 'direct support professional', 'laboratory technician', 'medical receptionist', 'x-ray technician']
 
@@ -9476,9 +9644,10 @@ None
     ""justification"": ""The job seeker is ABA Therapy Certified and has applied for behavior technician roles, making this a logical next step in their career.""
   }
 ]
-```"
+```",1722998316,"['medical assistant', 'sales support representative', 'dental assistant', 'appointment generator', 'sales representative', 'treatment coordinator', 'medical technician', 'patient services representative']","['Dental Assistant', 'Orthodontic Assistant', 'Phlebotomist', 'Medical Assistant', 'Certified Medical Assistant', 'X-Ray Technician', 'Laboratory Technician', 'Medical Receptionist', 'Home Health Aide', 'Behavior Technician']",1i4lb7mfsgb61801,"['Dental Assistant', 'Dental Assistant', 'Dental Assistant', 'Orthodontic Assistant (Part-Time or Full-Time)']"
 592135537,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -9498,6 +9667,7 @@ None
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 None
 
@@ -9555,9 +9725,10 @@ None
     ""justification"": ""This role is a logical step up from a Physical Therapy Aide and aligns with the job seeker's interest in physical therapy.""
   }
 ]
-```"
+```",1722964977,['physical therapy aide'],"['Physical Therapy Aide', 'Physical Therapy Technician', 'Patient Access Representative', 'Front Desk Receptionist', 'Ultrasonographer', 'Cardiovascular Technician', 'Child Care Worker', 'Soccer Coach', 'Healthcare Assistant', 'Physical Therapist Assistant']",1i4kbe9fci3on800,[]
 594288564,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -9577,6 +9748,7 @@ None
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['driver', 'warehouse associate', 'route sales representative', 'plumber', 'mover/driver', 'route driver', 'mailroom clerk']
 
@@ -9634,9 +9806,10 @@ None
     ""justification"": ""The job seeker has applied for this job title, indicating it as a potential next step in their career.""
   }
 ]
-```"
+```",1722964713,"['driver', 'laborer', 'stocking associate']","['Route Sales Representative', 'Warehouse Associate', 'Driver', 'Field Technician', 'Appliance Technician', 'Material Mover', 'Mailroom Clerk', 'Sales Associate', 'Warehouse/Driver', 'Mover/Driver']",1i4kb67jlkkfo801,[]
 599485145,"
 ***JS Resume***
+
 ****Resume Header****
 Have great customer service skills cleaning experience assembly experience people person
 
@@ -9669,6 +9842,7 @@ Food Handler Certification
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 None
 
@@ -9726,9 +9900,10 @@ None
     ""justification"": ""Their extensive assembly experience and previous supervisory role make a team lead position in assembly a suitable advancement.""
   }
 ]
-```"
+```",1722926531,"['house cleaner', 'housekeeping manager', 'warehouse worker', 'production associate', 'assembler', 'housekeeper', 'porter']","['Senior Assembler', 'Production Supervisor', 'Customer Service Supervisor', 'Manufacturing Technician', 'Quality Control Inspector', 'Maintenance Technician', 'Warehouse Supervisor', 'Production Planner', 'Operations Coordinator', 'Team Lead - Assembly']",1i4j6ovva2fd3000,"['House Cleaner/ Housekeeper', 'Mechanical Assembler']"
 601470455,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -9760,6 +9935,7 @@ EPA Certification, EPA Refrigeration Certification, EPA Type II, EPA Type I, EPA
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['hvac installer', 'cnc machinist']
 
@@ -9817,9 +9993,10 @@ None
     ""justification"": ""The job seeker's managerial experience and proficiency in using software for inventory and auditing suggest they could excel in a role coordinating operations.""
   }
 ]
-```"
+```",1722944936,['technician'],"['HVAC Technician', 'CNC Machinist', 'Maintenance Supervisor', 'Instrumentation & Control Technician', 'Production Supervisor', 'Facilities Manager', 'Robot Technician', 'Quality Control Technician', 'Field Service Technician', 'Operations Coordinator']",1i4joam93gric800,"['Instrument Technician', 'Machine Repair Technician (Injection Mold)', 'Industrial Maintenance Technician', 'Injection Molding Process Technician Supervisor', 'Facility Technician', 'FSS Field Service Technician']"
 602913501,"
 ***JS Resume***
+
 ****Resume Header****
 I am a reliable worker someone you can depend on also I am a huge help I am always willing to help those in needs.
 Willing to relocate: Anywhere
@@ -9848,6 +10025,7 @@ None
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['caregiver', 'scheduler', 'medical receptionist', 'nursing assistant', 'call center representative', 'receptionist', 'personal assistant', 'concierge', 'in home caregiver', 'front desk manager']
 
@@ -9905,9 +10083,10 @@ None
         ""justification"": ""The job seeker has clicked on customer service representative roles, indicating an interest in positions that involve direct interaction with clients and customers.""
     }
 ]
-```"
+```",1722967419,"['caregiver', 'customer service representative', 'front desk receptionist', 'scheduler', 'receptionist', 'patient care technician']","['Caregiver', 'Medical Receptionist', 'Nursing Assistant', 'Call Center Representative', 'Concierge', 'Patient Care Technician', 'Front Desk Manager', 'In Home Caregiver', 'Scheduler', 'Customer Service Representative']",1i4kdoq4uma4j801,[]
 820372685,"
 ***JS Resume***
+
 ****Resume Header****
 Passionate about promoting lasting customer satisfaction by delivering quality service and unparalleled support. Love to see my team grow and be the best they can be. 
 Proficient in customer service best practices and related options. Driven, self-directed, and energetic in completing all tasks. My greatest accomplishment was being a successful owner of my own Real Estate Company for 23 years.
@@ -9988,6 +10167,7 @@ Certified Notary Public
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['property manager', 'community manager', 'regional manager', 'account manager', 'director of sales and marketing', 'sales director', 'sales representative', 'hotel manager', 'operations manager', 'property management director']
 
@@ -10045,9 +10225,10 @@ None
         ""justification"": ""The job seeker is currently a Senior Property Manager and may continue to seek similar roles at larger or more prestigious properties.""
     }
 ]
-```"
+```",1722965121,"['executive director', 'developer', 'regional manager', 'district manager', 'commercial property manager', 'general manager', 'regional sales director', 'development director', 'district sales manager']","['Regional Property Manager', 'Community Manager', 'Director of Property Management', 'Operations Manager', 'Hotel Manager', 'Sales Director', 'Account Manager', 'Property Management Director', 'General Manager', 'Senior Property Manager']",1i4kbim18h7j7800,[]
 822011849,"
 ***JS Resume***
+
 ****Resume Header****
 Filing
 
@@ -10085,6 +10266,7 @@ None
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['customer service representative', 'retail sales associate', 'sales representative', 'sales associate', 'administrative assistant', 'front desk receptionist', 'office assistant', 'customer support representative', 'accounts receivable clerk', 'office administrator']
 
@@ -10142,9 +10324,10 @@ None
         ""justification"": ""The job seeker has clicked on guest service agent roles and has relevant customer service experience, making this a plausible career shift.""
     }
 ]
-```"
+```",1722972718,"['lead generation specialist', 'retail sales associate', 'sales specialist', 'customer service collections representative', 'inside sales representative', 'sales representative', 'guest service agent', 'closer', 'data entry clerk']","['Customer Service Representative', 'Sales Representative', 'Administrative Assistant', 'Front Desk Receptionist', 'Office Assistant', 'Customer Support Representative', 'Accounts Receivable Clerk', 'Call Center Representative', 'Retail Sales Associate', 'Guest Service Agent']",1i4kiqggdi03n801,['Lead Sales Associate/Key Holder']
 824751229,"
 ***JS Resume***
+
 ****Resume Header****
 Graphic Designer
 Hello, 
@@ -10182,6 +10365,7 @@ Driver's License
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['graphic designer', 'artist', 'host/hostess', 'production designer', 'carhop']
 
@@ -10239,9 +10423,10 @@ None
     ""justification"": ""The job seeker has a broad range of design skills and experience, making this a suitable next step in their career.""
   }
 ]
-```"
+```",1722997406,['graphic designer'],"['Junior Graphic Designer', 'Graphic Designer', 'Marketing Coordinator', 'Production Designer', 'Graphic Artist', 'Marketing Specialist', 'Digital Designer', 'Visual Designer', 'Brand Designer', 'Creative Designer']",1i4labtscl23l800,['Web Designer/Graphics']
 837073549,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -10265,6 +10450,7 @@ None
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 None
 
@@ -10322,9 +10508,10 @@ None
     ""justification"": ""The job seeker has shown interest in healthcare administrative roles, and this position would leverage their administrative skills in a new industry.""
   }
 ]
-```"
+```",1722961284,[],"['Administrative Assistant', 'Office Assistant', 'Receptionist/Administrative Assistant', 'Customer Service Representative', 'Office Manager', 'Member Services Representative', 'Administrative Coordinator', 'Server', 'Front Desk Receptionist', 'Healthcare Administrative Support']",1i4k7tj88ge5b801,[]
 839515132,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -10350,6 +10537,7 @@ None
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['customer support representative']
 
@@ -10407,9 +10595,10 @@ None
         ""justification"": ""The job seeker has shown interest in this occupation, which involves customer interaction and sales, aligning with their skills and experience.""
     }
 ]
-```"
+```",1722967113,[],"['Customer Support Representative', 'Customer Service Representative', 'Call Center Representative', 'Order Administrator', 'Phone Operator', 'Consumables Associate', 'Merchandiser', 'Loan Specialist', 'Retail Sales Associate', 'Sales Lead Generator']",1i4kdffeng2dk800,[]
 855134354,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -10439,6 +10628,7 @@ None
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['healthcare customer service representative', 'caregiver', 'private duty nurse', 'medical technician']
 
@@ -10496,9 +10686,10 @@ None
     ""justification"": ""The job seeker has extensive experience in senior care and could advance to a specialist role, focusing on the needs of elderly patients.""
   }
 ]
-```"
+```",1722927039,[],"['Certified Nursing Assistant (CNA)', 'Home Health Aide', 'Private Duty Nurse', 'Patient Care Technician', 'Direct Support Professional', 'Healthcare Customer Service Representative', 'Certified Medication Aide', 'Memory Care Specialist', 'Assisted Living Coordinator', 'Senior Care Specialist']",1i4j78g1akcn7801,[]
 865335929,"
 ***JS Resume***
+
 ****Resume Header****
 I have worked a couple full time jobs in the past and in that time I have developed expertise in efficient waste management and recycling practices. I was able to work on my punctuality as well as ensuring timely service. I also have gained a sense of navigation and problem solving skills that allow me to be able to handle issues swiftly and accurately. My goal is to ensure customer and employer satisfaction.
 
@@ -10522,6 +10713,7 @@ Driver's License
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['delivery driver', 'lube technician', 'host/hostess', 'house cleaner', 'server', 'cleaner', 'manager in training', 'sales representative', 'direct support professional', 'insurance agent']
 
@@ -10579,9 +10771,10 @@ None
     ""justification"": ""The job seeker has applied for lube technician positions. This role aligns with their interest in vehicle-related jobs and represents a potential career shift.""
   }
 ]
-```"
+```",1722968445,"['delivery driver', 'food service associate', 'customer service associate / cashier', 'stocker', 'parking attendant', 'locator']","['Delivery Driver', 'Host/Hostess', 'House Cleaner', 'Server', 'Cleaner', 'Manager in Training', 'Sales Representative', 'Direct Support Professional', 'Insurance Agent', 'Lube Technician']",1i4keo417jfl7801,[]
 871323777,"
 ***JS Resume***
+
 ****Resume Header****
 Hard Working and Dedicated
 Hello, I&#039;m Aniyah Saxon I am 17 years old. I am very hardworking and will get any job done. I recently graduated high school, so I&#039;m flexible with hours. I am cooperative, patient, and work well under pressure.   I am a great Independent worker and team player, with little to no direction. I’m very much a ‘go-getter’ when it comes to jobs and expectations . I’m very vibrant and lively when meeting people.  I gained many skills from the jobs I worked at such as cash handling skills, organization, content creations and campaigns, sales and marketing coordination, customer service, youth sports, etc. Ready to start any job that comes my way !
@@ -10621,6 +10814,7 @@ Food Handler Certification
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['sales associate', 'crew member', 'retail sales associate', 'cashier', 'server', 'dining room server', 'concession stand worker', 'sandwich maker', 'event staff', 'restaurant staff']
 
@@ -10678,9 +10872,10 @@ None
         ""justification"": ""Aniyah's experience in quick service restaurants and her interest in food service roles make this a suitable next step.""
     }
 ]
-```"
+```",1722991225,"['laundry attendant', 'retail sales associate', 'server', 'stocking associate', 'customer service representative', 'food runner', 'crew member', 'house cleaner']","['Retail Sales Associate', 'Cashier', 'Crew Member', 'Server', 'Concession Stand Worker', 'Host/Hostess', 'Event Staff', 'Customer Service Representative', 'Sales Associate', 'Food Service Worker']",1i4l4f9g9gsvl800,"['Coach', 'After School Instructor', 'Youth Soccer Coach', 'Youth Sports Coaches & Directors']"
 875867296,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -10706,6 +10901,7 @@ Activity Director Certified, First Aid Certification, CPR Certification
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['medical receptionist', 'direct support professional', 'caregiver', 'front desk receptionist', 'salesperson', 'administrative assistant', 'retail sales associate', 'office assistant', 'support specialist', 'direct care worker']
 
@@ -10763,9 +10959,10 @@ None
         ""justification"": ""The job seeker has clicked on center director roles, and their experience in management and leadership could support a transition to this position.""
     }
 ]
-```"
+```",1722987333,[],"['Medical Receptionist', 'Administrative Assistant', 'Direct Support Professional', 'Front Desk Receptionist', 'Caregiver', 'Office Assistant', 'Support Specialist', 'Patient Care Technician', 'Salesperson', 'Center Director']",1i4l0ogufi01c800,"['Intervention Specialist', 'On Call Direct Support Professional']"
 881724541,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -10787,6 +10984,7 @@ None
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['assembler']
 
@@ -10844,9 +11042,10 @@ None
     ""justification"": ""With skills in organizational skills, time management, and materials handling, this role is a potential career advancement.""
   }
 ]
-```"
+```",1722949123,[],"['Assembler', 'Production Worker', 'Material Handler', 'Warehouse Associate', 'Forklift Operator', 'Quality Control Inspector', 'Shipping and Receiving Clerk', 'Manufacturing Technician', 'Order Picker', 'Inventory Specialist']",1i4jsaeahgric800,[]
 883642370,"
 ***JS Resume***
+
 ****Resume Header****
 None
 
@@ -10916,6 +11115,7 @@ CPR Certification, First Aid Certification, Driver's License
 None
 
 ***JS Activity***
+
 ****Applied Job Titles****
 ['early childhood teacher']
 
@@ -10973,4 +11173,4 @@ None
     ""justification"": ""The job seeker has searched for this role and has experience in cheerleading, making it a potential career shift that aligns with their interests.""
   }
 ]
-```"
+```",1722967680,[],"['Early Childhood Teacher', 'Paralegal', 'Assistant Director of Childcare Center', 'Special Education Paraprofessional', 'Customer Service Supervisor', 'Childcare Program Coordinator', 'Behavioral Health Technician', 'Administrative Assistant', 'Educational Program Assistant', 'Cheerleading Coach']",1i4ke0ol2jm5j800,"['Legal Secretary/Legal Assistant', 'Treatment Coordinator', 'Dental Office Administrative Assistant', 'Medical Receptionist/Administrative Assistant', 'Administrative Professional']"
